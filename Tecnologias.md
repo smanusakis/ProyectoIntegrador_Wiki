@@ -47,12 +47,12 @@ El versionado del proyecto se realizó íntegramente en <span style="color:orang
 
 | Área | Tecnologías |
 | ------- | ---------- |
-| ***Front end*** | **Lenguajes** <br>- HTML <br>- CSS <br>-JavaScript  <br> **Librerías** <br>- React <br>- Librería 2 <br> **Recursos** <br>- Recurso 1 |
-| ***Back end*** |**Lenguajes** <br>- Java <br> ***Frameworks*** <br>- Springboot <br>**Herramientas de gestión** <br>- Maven <br>**Gestión de Seguridad** <br>- JWT (*Jason Web Tokken*) |
+| ***Front end*** | **Lenguajes** <br>- HTML <br>- CSS <br>-JavaScript  <br> **Librerías** <br>- React <br>- React Router <br>- Material UI <br> **Recursos** <br>- Font Awesome |
+| ***Back end*** |**Lenguajes** <br>- Java <br> ***Frameworks*** <br>- Springboot <br>**Herramientas de gestión** <br>- Maven <br>**Gestión de Seguridad** <br>- JWT (*Jason Web Tokken*) <br>- Spring Security|
 | **Base de Datos** | **Lenguajes** <br>- SQL |
 | **Infraestructura** | **Lenguajes** <br>- HCL (*HashiCorp configuration language*) <br>- *Bash scripting*  ***Software*** <br>- Terraform |
 | ***Testing*** |***Automation Suite*** <br>- Selenium WebDriver <br>**OtrasTecnologías** <br>- Tecnología 2 |
-| **Wiki** | **Lenguajes** <br>- Markdown | 
+| **Wiki** | **Lenguajes** <br>- Markdown  **Recursos** <br>- Mermaid| 
 
 
 [subir](#tecnologías-utilizadas)
