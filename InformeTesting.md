@@ -2,20 +2,22 @@
 ### Informe Final de Testing & QA
 12/08/2022
 
-- Introducción
-- Casos de Prueba
-- Pruebas de Regresión
-- Testing Estático
-- División de Funcionalidades
-- Tecnologías Utilizadas
-- Resultados
-- Conclusión 
+___
+- ### **Sumario del Informe**
+    - [Introducción](#introducción)
+    - [Casos de Prueba](#casos-de-prueba)
+    - [Pruebas de Regresión](#pruebas-de-regresión)
+    - [Testing Estático](#testing-estático)
+    - [División de Funcionalidades](#división-de-funcionalidades)
+    - [Tecnologías Utilizadas](#tecnologias-utilizadas)
+    - [Resultados](#resultados)
+    - [Conclusión](#conclusión)
 
 ___
 
 
 
-### **Introducción**
+## **Introducción**
 En este informe se detalla el proceso de testeo que se llevó a cabo en cada uno de los sprint en el desarrollo de la aplicación de “DHousing”. Se explicará en base a que se escribieron los casos de prueba, sus automatizaciones y las tecnologías utilizadas en el proceso
 <br>
 
@@ -32,11 +34,11 @@ Las funcionalidades críticas en donde se aplicaron estas pruebas fueron las sig
 - Reserva de Producto
 
 
-### **Testing Estático**
+## ***Testing* Estático**
 Se realizaron testeos estáticos con la totalidad del grupo de desarrollo, en donde revisamos la correcta escritura y comprensión de las historias de usuario y el material y tecnologías disponibles para el correcto desarrollo de estas.
 
 
-### **Division de funcionalidades**
+## **División de funcionalidades**
 Los casos de pruebas se dividieron en funcionalidades para su correcta categorización, organización e implementación. Las siguientes son:
 
 - **Estructura del sitio:** La correcta visualización del sitio, experiencia de usuario y que sea responsive
@@ -45,22 +47,35 @@ Los casos de pruebas se dividieron en funcionalidades para su correcta categoriz
 - **Reservas:** Acceso a la pantalla de reservas, correcta creación de una y visualización del historial.
 - **Administración:** Tareas de administración como la creación o actualización de un producto. Seguridad
   
-### **Tecnologias Utilizadas**
+## **Tecnologias Utilizadas**
 Para el proceso de testeo se utilizaron las siguientes tecnologías:
-- **Postman:** Esta tecnología se utilizo principalmente para la creación de testeos automatizados de las funcionalidades de backend. Se creo una colección categorizada por las distintas clases desarrolladas y sus respectivos endpoints. Esta tecnología nos permitió acceder a testeos más rápidos y detallados tanto en la fase de desarrollo como en las pruebas de regresión.
-- **Selenium:** Esta tecnología se utilizó para la automatización de la implementación de los casos de prueba manuales. Se simulo la experiencia de un usuario al interactuar con el sitio y utilizar las diferentes funcionalidades y, de esta manera, se facilita y automatiza la tarea del tester.
-- **Qase:** Es un software de manejo de casos de prueba y suites que nos permitió tener un mejor manejo y organización al momento de escribirlos.
+- **Postman:** Esta tecnología se utilizó principalmente para la creación de testeos automatizados de las funcionalidades de *Backend*. Se creo una colección categorizada por las distintas clases desarrolladas y sus respectivos *endpoints*. <br>Esta tecnología nos permitió acceder a testeos más rápidos y detallados tanto en la fase de desarrollo como en las pruebas de regresión.
+- **Selenium:** Esta tecnología se utilizó para la automatización de la implementación de los casos de prueba manuales. <br> Se simuló la experiencia de un usuario al interactuar con el sitio y utilizar las diferentes funcionalidades y, de esta manera, se facilita y automatiza la tarea del *tester*.
+- **Qase:** Es un *software* de manejo de casos de prueba y suites que nos permitió tener un mejor manejo y organización al momento de escribirlos.
 
+<br>
 
-### **Resultados**
+## **Resultados**
 Casos de prueba /Automatizaciones
 
+| **Funcionalidad** | **Casos de prueba Manuales** | **% de pruebas Exitosas** | **Selenium** | **Postman** |
+| ---      | :---:      | :---:      | :---:      | :---:      |
+| Estructura del Sitio   | 4   | 100%   |5   | 5  |
+| Productos   | 4   | 100%   | 2   | 22   |
+| Usuarios   | 9   | 100%   |4   | 10   |
+| Reservas   | 5   | 100%   |6  | 6   |
+| Administración   | 8   | 100%   |1   | 6   |
 
 
-Durante el proceso de testeo se encontraron un total de 8 defectos. Los cuales fueron debidamente reportados al equipo de desarrollo y se aplicaron las correcciones correspondientes. Luego de aplicar los testeos una ultima vez, se llego a la totalidad de pruebas exitosas con lo cual se le dio fin al proceso.
-Conclusión
-El proceso de testeo que se aplico durante el desarrollo facilito la detección de manera temprana de defectos y fallas, lo cual ahorro mucho tiempo a los desarrolladores al momento de continuar con nuevas funcionalidades. La tecnología más utilizada, además de los testeos manuales, fue Postman. Este software nos permitió hacer testeos inmediatos durante el desarrollo tanto para Backend como así su integración con el Frontend.
-Con todas las pruebas realizadas de manera exitosa, los defectos solucionados y sin la detección de ningún defecto nuevo, se da por finalizado el informe y alcanzado el exit criteria para lanzar la aplicación a producción.
+Durante el proceso de testeo se encontraron un total de 8 defectos. Los cuales fueron debidamente reportados al equipo de desarrollo y se aplicaron las correcciones correspondientes. 
+<br>Luego de aplicar los testeos una última vez, se llegó a la totalidad de pruebas exitosas con lo cual se le dio fin al proceso.
+<br>
+
+
+
+## **Conclusión**
+El proceso de testeo que se aplicó durante el desarrollo facilitó la detección de manera temprana de defectos y fallas, lo cual ahorró mucho tiempo a los desarrolladores al momento de continuar con nuevas funcionalidades. La tecnología más utilizada, además de los testeos manuales, fue **Postman**. Este *software* nos permitió hacer testeos inmediatos durante el desarrollo tanto para Backend como así su integración con el Frontend.<br>
+Con todas las pruebas realizadas de manera exitosa, los defectos solucionados y sin la detección de ningún defecto nuevo, se dá por finalizado el informe y alcanzado el *exit criteria* para lanzar la aplicación a producción.
 
 
 

@@ -76,7 +76,7 @@ ____
 ____
 
 ## **Testing y calidad**
-    - Informe final
+    - [Ver informe Final](InformeTesting.md)
 
 
 

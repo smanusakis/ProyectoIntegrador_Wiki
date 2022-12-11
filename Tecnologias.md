@@ -51,7 +51,7 @@ El versionado del proyecto se realizó íntegramente en <span style="color:orang
 | ***Back end*** |**Lenguajes** <br>- Java <br> ***Frameworks*** <br>- Springboot <br>**Herramientas de gestión** <br>- Maven <br>**Gestión de Seguridad** <br>- JWT (*Jason Web Tokken*) <br>- Spring Security|
 | **Base de Datos** | **Lenguajes** <br>- SQL |
 | **Infraestructura** | **Lenguajes** <br>- HCL (*HashiCorp configuration language*) <br>- *Bash scripting*  ***Software*** <br>- Terraform |
-| ***Testing*** |***Automation Suite*** <br>- Selenium WebDriver <br>**OtrasTecnologías** <br>- Tecnología 2 |
+| ***Testing*** |***Automation Suite*** <br>- Selenium WebDriver <br>**Plataformas** <br>- Postman <br>- Qase |
 | **Wiki** | **Lenguajes** <br>- Markdown  **Recursos** <br>- Mermaid| 
 
 
