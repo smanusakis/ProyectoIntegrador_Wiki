@@ -78,4 +78,3 @@ El proceso de testeo que se aplicó durante el desarrollo facilitó la detecció
 Con todas las pruebas realizadas de manera exitosa, los defectos solucionados y sin la detección de ningún defecto nuevo, se dá por finalizado el informe y alcanzado el *exit criteria* para lanzar la aplicación a producción.
 
 
-

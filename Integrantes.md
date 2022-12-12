@@ -7,10 +7,18 @@
 
 <br>
 
+____
+
+
 # Trinidad Atrio Abeledo (Trini)
 - [x] Bio:
+  Trinidad es estudiante de Ingeniería Química en la Universidad Tecnológica Nacional (UTN). 
+  Actualmente trabaja para en el INTI como Técnico de Laboratorio.
+- [x] Conocimientos de Programación previos al curso de CTD: básicos.
+- [x] Rol en el proyecto: fue encargada, junto con Milagros de llevar adelante las tareas de *Front end*.
+- [x] LinkedIn: https://www.linkedin.com/in/trinidad-atrio-abeledo-/
 
-|Tecnología | fortaleza |
+|Tecnología | Fortaleza |
 |:---   | :----|
 |Frontend |[x] [x] [x] |
 |Backend | [x] [] [] |
@@ -24,8 +32,12 @@
 
 # Milagros Cerverizo (Mili)
 - [x] Bio:
+- [x] Conocimientos de Programación previos al curso de CTD: 
+- [x] Rol en el proyecto:
+- [x] LinkedIn:
+  <br>
 
-|Tecnología | fortaleza |
+|Tecnología | Fortaleza |
 |:---   | :----|
 |Frontend |  [x] [x] [x] |
 |Backend | [x] [] [] |
@@ -37,11 +49,12 @@
 [subir](#integrantes)
 ____
 # Nicolás García (Nico)
-- [x] Bio:
-<br>
+- [x] Bio: Nicolás es Contador Público de la Universidad del Salvador. Actualmente se desempeña como *Senior System Support Analyst* en ExxonMobil Argentina.
+- [x] Conocimientos de Programación previos al curso de CTD: ninguno.
+- [x] Rol en el proyecto: Nicolás tomó el rol de Analista de *Testing* y QA, pero también colaboró activamente como Analista de Base de Datos y dando soporte al área de *Back end*.
+- [x] LinkedIn: https://www.linkedin.com/in/nicofgarcia/
 
-
-|Tecnología | fortaleza |
+|Tecnología | Fortaleza |
 |:---   | :----|
 |Frontend |  [x] [] [] |
 |Backend | [x] [x] [] |
@@ -57,10 +70,13 @@ ____
 ____
 
 # Sofía E. Manusakis (Sofi)
-- [x] Bio:
-- [ ] 
+- [x] Bio: Sofía es Locutora (ISER), Analista de Comercio Internacional (Escuela Argentina de Negocios y UADE) y Geóloga (Exactas - UBA), actualmente se desempeña como *Scrum Master* y Dev. Jr. en ExxonMobil Argentina.
+- [x] Conocimientos de Programación previos al curso de CTD: ninguno.
+- [x] Rol en el proyecto: Sofía tomó el rol de Analista de Infraestructura, brindando también asistencia al área de *Back end* y Base de Datos. Por otro lado, colaboró con el equipo oficiando de *Scrum Master* durante las ceremonias y preparando métricas de cada sprint que permitieran que el equipo pudiera ver reflejado su progreso.
+- [x] LinkedIn: https://www.linkedin.com/in/sofiaelenamanusakis/
+- [x] Tipo de Personalidad: [ENFP-T](https://www.16personalities.com/enfp-personality) 
 
-|Tecnología | fortaleza |
+|Tecnología | Fortaleza |
 |:---   | :----|
 |Frontend |  [x] [] [] |
 |Backend | [x] [x] [] |
